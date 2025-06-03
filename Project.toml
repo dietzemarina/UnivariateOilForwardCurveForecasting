@@ -1,0 +1,4 @@
+name = "UnivariateOilForwardCurveForecasting"
+uuid = "fbf7b00d-8044-4a63-9552-76838dfa535e"
+authors = ["marinadietze <marinadietze@lampsco.com>"]
+version = "0.1.0"
